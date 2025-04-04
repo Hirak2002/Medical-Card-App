@@ -4,10 +4,6 @@
 
 Medical Card is a solution designed to provide a comprehensive overview of medical data from the client's perspective. The project aims to centralize medical data from various sources, make it easily understandable, allow clear comparisons over time, identify health trends, and make this data accessible in multiple languages and through an API.
 
-### Problem Statement
-
-Currently, there is no clear overview of medical data over time from the client's side. Many people, especially in Europe, switch doctors and labs frequently, resulting in fragmented medical data. Additionally, many individuals, including the project initiator's mother, still maintain their health data in paper notebooks. While hospitals have specific health portals to pass information between doctors, these solutions are not accessible to patients and are often limited to specific countries.
-
 ### Goals
 
 - **Centralize Data:** Aggregate medical data from different sources into one platform.
@@ -62,22 +58,3 @@ Currently, there is no clear overview of medical data over time from the client'
 ### Hosting
 
 - **AWS:** Hosts the application, providing robust and scalable cloud services.
-
-
-## Contributing
-
-We welcome contributions to enhance the Medical Card project. Please contact lyaminky2@gmail.com
-
-
-## Contact
-
-For further information, please contact:
-
-- Name: Maksym Liamin
-- Email: lyaminky2@gmail.com
-- GitHub: https://github.com/monami44
-
----
-
-# Medical-Card-Project-Revived
-# Medical-Card-Project-Revived
